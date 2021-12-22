@@ -1,6 +1,6 @@
 # visit this lovely build here
 
-[Link](https://web3-92wrhe8he-pa1rick101.vercel.app/).
+[Link](https://web3-chat-3ky3cqbxu-pa1rick101.vercel.app/).
 
 # Next.js + Tailwind CSS Example
 
