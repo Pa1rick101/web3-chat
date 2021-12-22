@@ -15,7 +15,7 @@ function Header() {
             layout="fill"
             objectFit= "cover"
             className="rounded-full"
-            src="https://links.papareact.com/3pi"
+            src="https://www.metagamehub.io/images/mgh_logo.png"
           />
         </div>
   

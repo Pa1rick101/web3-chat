@@ -13,7 +13,7 @@ function Login() {
         {/* Logo */}
         <Image
           className="object-cover rounded-full"
-          src='https://links.papareact.com/3pi'
+          src='https://www.metagamehub.io/images/mgh_logo.png'
           height={200}
           width={200}
           />
@@ -28,7 +28,8 @@ function Login() {
 
       <div className="w-full h-screen">
         <Image
-          src="https://links.papareact.com/55n"
+          //src="https://links.papareact.com/55n"
+          src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
           layout="fill"
           objectFit="cover"
         />
